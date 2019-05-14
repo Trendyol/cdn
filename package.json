@@ -1,6 +1,6 @@
 {
-  "name": "cdn",
-  "version": "1.5.1",
+  "name": "ty-cdn",
+  "version": "1.0.0",
   "description": "Upload your files easily",
   "main": "index.js",
   "license": "MIT",
