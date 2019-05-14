@@ -5,18 +5,18 @@
 ### Global
 
 **Yarn**
-`yarn global add cdn`
+`yarn global add ty-cdn`
 
 **Npm**
-`npm install -g cdn`
+`npm install -g ty-cdn`
 
 ### Library
 
 **Yarn**
-`npm install cdn`
+`npm install ty-cdn`
 
 **Npm**
-`yarn add cdn`
+`yarn add ty-cdn`
 
 ## Global Usage
 
