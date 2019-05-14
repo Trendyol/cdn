@@ -44,26 +44,26 @@ Options:
 
 `cdn -u username -p password -t mobileweb -e develop -f library.js`
 
-Uploads library js to cdn with with `/username/mobileweb/develop/library.js`
+Uploads library js to cdn with `/username/mobileweb/develop/library.js`
 
 **With Build Number**
 
 `cdn -u username -p password -t mobileweb -e develop -b 123 -f library.js`
 
-Uploads library js to cdn with with `/username/mobileweb/develop/123/library.js`
+Uploads library js to cdn with `/username/mobileweb/develop/123/library.js`
 
 **Absolute Directory**
 
 `cdn -u username -p password -t mobileweb -e develop -d /absolute -f library.js`
 
-Uploads library js to cdn with with `/username/absolute/library.js`
+Uploads library js to cdn with `/username/absolute/library.js`
 
 **Multiple Files**
 
 `cdn -u username -p password -t mobileweb -e develop -f library.js anotherlibrary.js`
 
-Uploads library js to cdn with with `/username/mobileweb/develop/library.js`
-Uploads library js to cdn with with `/username/mobileweb/develop/anotherlibrary.js`
+Uploads library js to cdn with `/username/mobileweb/develop/library.js`
+Uploads library js to cdn with `/username/mobileweb/develop/anotherlibrary.js`
 
 
 ## Library Usage
