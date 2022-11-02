@@ -1,5 +1,5 @@
 {
-  "name": "ty-cdn",
+  "name": "@trendyol-js/cdn",
   "version": "1.0.0",
   "description": "Upload your files easily",
   "main": "index.js",
